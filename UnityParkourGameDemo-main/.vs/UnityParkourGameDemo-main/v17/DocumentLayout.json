@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\assets\\scripts\\logic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|d:\\unity\\\u6E90\u7801\u7D20\u6750\\unityparkourgamedemo-main\\assets\\scripts\\logic\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|d:\\unity\\\u6E90\u7801\u7D20\u6750\\unityparkourgamedemo-main\\assets\\scripts\\logic\\eventdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\eventdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\assets\\scripts\\ui\\gamemenupanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamemenupanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\assets\\scripts\\ui\\gamemainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamemainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\assets\\scripts\\logic\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\gamemgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\assets\\scripts\\logic\\eventnamedef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\eventnamedef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|d:\\unity\\\u6E90\u7801\u7D20\u6750\\unityparkourgamedemo-main\\assets\\scripts\\logic\\coincreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\coincreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|d:\\unity\\\u6E90\u7801\u7D20\u6750\\unityparkourgamedemo-main\\assets\\scripts\\ui\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameoverpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|d:\\unity\\\u6E90\u7801\u7D20\u6750\\unityparkourgamedemo-main\\assets\\scripts\\logic\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8700F140-BE2D-E227-E9F6-5C76C6943127}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logic\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ground.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\Ground.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Ground.cs",
+              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\Ground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Ground.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:19:43.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventDispatcher.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\EventDispatcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\EventDispatcher.cs",
+              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\EventDispatcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\EventDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:19:35.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoinCreator.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\CoinCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\CoinCreator.cs",
+              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\CoinCreator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\CoinCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:19:30.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameMenuPanel.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\UI\\GameMenuPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameMenuPanel.cs",
+              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\UI\\GameMenuPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameMenuPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:25:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameMgr.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\GameMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\GameMgr.cs",
+              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\GameMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\GameMgr.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:02:33.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Player.cs",
+              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Player.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:00:35.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventNameDef.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\EventNameDef.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\EventNameDef.cs",
+              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\EventNameDef.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\EventNameDef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:00:22.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameOverPanel.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\UI\\GameOverPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameOverPanel.cs",
+              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\UI\\GameOverPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameOverPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:58:09.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameMainPanel.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\UI\\GameMainPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameMainPanel.cs",
+              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\UI\\GameMainPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameMainPanel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:56:48.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Logic\\Coin.cs",
+              "ToolTip": "D:\\Unity\\\u6E90\u7801\u7D20\u6750\\UnityParkourGameDemo-main\\Assets\\Scripts\\Logic\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Logic\\Coin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:19:14.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
